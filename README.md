@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hi 👋, Satyam here</h1>
-<h3 align="center">A Passionate Java Programmer, Machine Learning and Android developer</h3>
+<h3 align="center">A Passionate Java Programmer, Web Developer</h3>
 
-- 🌱 I’m currently learning ***Android development***
+- 🌱 I’m currently learning ***FULL STACK***
 - 📫 How to reach me: ***Links given below***
 - ⚡ Fun fact: ***FireFox  is not a fox, it's a red racoon***
 
 
 
 ## 🚀 About Me
-I'm a Computer Engineer B.E. program third year 
+I'm a Computer Engineer B.E. program Fourth year 
 
 skills:  
 - Java    
