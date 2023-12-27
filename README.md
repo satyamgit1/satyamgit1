@@ -20,10 +20,12 @@ skills:
 -  HTML, CSS and JavaScript 
 -  MongoDB
 -  Machine Learning
+-  Next js
 
 Also familiar with  
 - MySQL
 - php
+- MongoDB
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamgit1&theme=merko&show_icons=true)](https://github.com/satyamgit1)
