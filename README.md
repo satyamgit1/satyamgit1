@@ -28,7 +28,7 @@ Also familiar with
 - MongoDB
 
 
-![Satyam Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamgit1&theme=ambient_gradient_icons=true)
+![Satyam Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamgit1&theme=catppuccin_latte_icons=true)
 
 
 
