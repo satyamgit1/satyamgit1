@@ -1,31 +1,35 @@
 
+# 👋 Hello, I'm Satyam!
 
-<h1 align="center">Hi 👋, Satyam here</h1>
-<h3 align="center">A Passionate Java Programmer, Web Developer</h3>
+## 👨‍💻 About Me
+I'm a passionate Java programmer and web developer currently in my fourth year of the B.E. Computer Engineering program. Always eager to learn and explore new technologies, I am on a journey to become a Full Stack Developer.
 
-- 🌱 I’m currently learning ***FULL STACK***
-- 📫 How to reach me: ***Links given below***
-- ⚡ Fun fact: ***FireFox  is not a fox, it's a red racoon***
+## 🌱 I’m currently learning
+- Full Stack Development
 
+## 📫 How to reach me
+Feel free to connect with me through the following links:
 
+[LinkedIn](#) | [GitHub](#) | [Twitter](#) | [Portfolio](#)
 
-## 🚀 About Me
-I'm a Computer Engineer B.E. program Fourth year 
+## ⚡ Fun fact
+Did you know? FireFox is not a fox; it's a red raccoon!
 
-skills:  
-- Java    
-- Python  
-- Android studio  
+## 🚀 Skills
+- Java
+- Python
+- Android Studio
 - C and C++
--  HTML, CSS and JavaScript 
--  MongoDB
--  Machine Learning
--  Next js
-
-Also familiar with  
-- MySQL
-- php
+- HTML, CSS, and JavaScript
 - MongoDB
+- Machine Learning
+- Next.js
+
+## 🔧 Familiar with
+- MySQL
+- PHP
+- MongoDB
+
 
 
 ![Satyam Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamgit1&theme=catppuccin_latte_icons=true)
