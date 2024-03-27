@@ -10,7 +10,7 @@ I'm a passionate Java programmer and web developer currently in my fourth year o
 ## 📫 How to reach me
 Feel free to connect with me through the following links:
 
-[LinkedIn](https://www.linkedin.com/in/satyam-singh-612415223/) | [GitHub](#) | [Twitter](#) | [Portfolio](https://www.satyamsingh.site/)
+[LinkedIn](https://www.linkedin.com/in/satyam-singh-612415223/) |[Resume](https://drive.google.com/file/d/1ADTwgKZjXolihZoKV1QI96oC9GLUsr_B/view?usp=sharing) | [GitHub](#) | [Portfolio](https://www.satyamsingh.site/) 
 
 ## ⚡ Fun fact
 Did you know? FireFox is not a fox; it's a red raccoon!
