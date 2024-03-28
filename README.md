@@ -24,6 +24,7 @@ Did you know? FireFox is not a fox; it's a red raccoon!
 - MongoDB
 - Machine Learning
 - Next.js
+- Node js
 
 ## 🔧 Familiar with
 - MySQL
