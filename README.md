@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **satyamsingh2003a@gmail.com**
 
-- 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.satyamsingh.site/resume.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.satyamsingh.site/resume.pdf)
+- 📄 Know about my experiences [https://www.satyamsingh.site/resume.pdf](https://www.satyamsingh.site/resume.pdf)
 
 - ⚡ Fun fact **Did you know? FireFox is not a fox; it's a red raccoon!**
 
