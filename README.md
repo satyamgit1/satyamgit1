@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamgit1" alt="satyamgit1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-    <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" align="right" width="400" height="300" alt="Coding">
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" width="400" height="300" alt="Coding">
 
 
 - 🔭 I’m currently working on **real-time-collaboration**
