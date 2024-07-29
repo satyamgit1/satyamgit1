@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1k0rBwnWQMAygxOHhD3WLu9Da1tvpFDAv/view)
 
-- ⚡ Fun fact **Did you know? FireFox is not a fox; it's a red raccoon!**
+- ⚡ Fun fact **Did you know? FireFox is not a fox; it's a red raccoon!*****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
