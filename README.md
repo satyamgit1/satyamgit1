@@ -2,7 +2,7 @@
         <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="450" alt="GitHub Image" style="display: inline-block;">
     </div>
     <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
-<h3 align="center">Software Developer At Growinity solutions</h3>
+<h3 align="center">Software Developer At Exterprise</h3>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamgit1&label=Profile%20views&color=0e75b6&style=flat" alt="satyamgit1" /> </p>
